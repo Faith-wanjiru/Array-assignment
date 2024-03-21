@@ -1,0 +1,168 @@
+@media screen and (min-width:"375px") and (max-width:"728px"){}
+    
+
+#navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.feature{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.button1{
+    border: none;
+    text-align: end;
+}
+
+.button2{
+    background-color: palevioletred;
+    width: 100px;
+}
+
+.charge{
+    color: red;
+    font-size:larger;
+    font-weight: 600;
+}
+
+#improve{
+    color: rgb(38, 38, 172);
+}
+
+#buttons{
+    display: flex;
+    gap: 20px;
+}
+
+.apple{
+    background-color: rgb(46, 46, 180);
+    display: flex;
+}
+
+.app{
+    display: flex;
+    background-color: rgb(61, 61, 187);
+    text-align: justify;
+}
+
+.deski{
+    color: rgb(93, 93, 235);
+}
+
+.received{
+    rotate: -20deg;
+}
+
+.roger{
+    rotate: -20deg;
+}
+
+.assistant{
+    rotate: -20deg;
+}
+
+.oculus{
+    rotate: -20deg;
+}
+
+.days{
+    rotate: -20deg;
+}
+
+.work{
+    rotate: -20deg;
+}
+
+.money{
+    rotate: -20deg;
+}
+
+.salary{
+    rotate: -20deg;
+}
+
+.mon{
+    rotate: -20deg;
+}
+
+.available{
+    rotate: -20deg;
+}
+
+.upload{
+    rotate: -20deg;
+}
+
+.man{
+    rotate: -20deg;
+}
+
+.avg{
+    rotate: -20deg;
+}
+
+.speed{
+    rotate: -20deg;
+}
+
+#picture{
+    display: flex;
+}
+
+#icons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.product{
+    color: red;
+}
+
+#interface{
+    display: flex;
+    justify-content: space-between;
+}
+
+.diti{
+    color: red;
+    text-decoration: underline;
+    color: red;
+}
+
+.downloads{
+    display: flex;
+    gap: 30px;
+}
+
+.customer{
+    color: red;
+    text-decoration: underline;
+    color: red;
+}
+
+.global{
+    color: red;
+    text-decoration: underline;
+    color: red;
+}
+
+.join{
+    background-color: palevioletred;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
